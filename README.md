@@ -105,6 +105,7 @@ Over the past few years, I worked on full-stack systems using Java (SpringBoot),
 <div align='left'>
   
 <a href="https://www.linkedin.com/in/benito-taccardi/" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://bennytaccardi.com" target="blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennytaccardi&show_icons=true&theme=dark)
